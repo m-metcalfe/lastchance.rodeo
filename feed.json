@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2023/02/18/road-racers-engine.html",
+				
+				"content_html": "<p>Road racer’s engine is louder than the sirens of the police chasing after down the A13</p>\n",
+				"content_text": "Road racer’s engine is louder than the sirens of the police chasing after down the A13\n",
+				"date_published": "2023-02-18T17:19:48+00:00",
+				"url": "https://lastchance.rodeo/2023/02/18/road-racers-engine.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/02/16/im-leaving-stratford.html",
+				
+				"content_html": "<p>I’m leaving Stratford International on the DLR from platform 2. Have literally never seen a DLR leave from platform 2 before. Let alone be on it.</p>\n",
+				"content_text": "I’m leaving Stratford International on the DLR from platform 2. Have literally never seen a DLR leave from platform 2 before. Let alone be on it. \n",
+				"date_published": "2023-02-16T19:50:28+00:00",
+				"url": "https://lastchance.rodeo/2023/02/16/im-leaving-stratford.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/02/12/what-are-the.html",
+				
+				"content_html": "<p>What are the Americans shooting down? De-orbiting Teslas?</p>\n",
+				"content_text": "What are the Americans shooting down? De-orbiting Teslas?\n",
+				"date_published": "2023-02-12T23:14:41+00:00",
+				"url": "https://lastchance.rodeo/2023/02/12/what-are-the.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2023/02/12/a-brief-musing.html",
 				"title": "A brief musing on political centrism",
 				"content_html": "<p>I&rsquo;ve struggled with the concept of political centrism. I&rsquo;ve found its positioning as &ldquo;moderate&rdquo; or &ldquo;in the middle&rdquo; of a left/right continuum at odds with its political incoherence and its totalising tendencies. I think centrism is better understood as a form of populism - bourgeois populism - if you like. It bundles up the shibboleths of the &ldquo;metropolitain elite&rdquo; (incoherence) and decries opposition as uncredentialed ignorance, and therefore illigitimate (totalising). As such it is little different from national populism, except that it centres &ldquo;the people&rdquo; on the better-credentialled professional classes, and demonises opponents not like them.</p>\n",
@@ -210,7 +234,7 @@
 				"id": "http://mmetcalfe.micro.blog/2022/12/09/temporary-if-poorly.html",
 				
 				"content_html": "<p>Temporary if poorly fitted and not working eInk display on the Elizabeth Line</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Temporary if poorly fitted and not working eInk display on the Elizabeth Line\n\n<img src=\"uploads/2022/43e3d6c226.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Temporary if poorly fitted and not working eInk display on the Elizabeth Line\n\n<img src=\"https://mmetcalfe.micro.blog/uploads/2022/43e3d6c226.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-09T08:14:15+00:00",
 				"url": "https://lastchance.rodeo/2022/12/09/temporary-if-poorly.html"
 			},
