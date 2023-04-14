@@ -1,16 +1,40 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Last Chance Rodeo",
+	"title": "➰ Last Chance Rodeo",
 	"icon": "https://micro.blog/mmetcalfe/avatar.jpg",
 	"home_page_url": "https://lastchance.rodeo/",
 	"feed_url": "https://lastchance.rodeo/feed.json",
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2023/04/09/a-young-female.html",
+				
+				"content_html": "<p>A young female pigeon (I think - not 100% expert at pigeon sexing) is roosting on the patio door handle. I know they can be messy birds, but she seem so precarious - landing there can&rsquo;t be easy - I don&rsquo;t want to disturb her. She can rest for the night as the police helicopters clatter overhead.</p>\n",
+				"content_text": "A young female pigeon (I think - not 100% expert at pigeon sexing) is roosting on the patio door handle. I know they can be messy birds, but she seem so precarious - landing there can't be easy - I don't want to disturb her. She can rest for the night as the police helicopters clatter overhead.\n",
+				"date_published": "2023-04-09T23:06:18+01:00",
+				"url": "https://lastchance.rodeo/2023/04/09/a-young-female.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/04/06/hello-journalists-voter.html",
+				
+				"content_html": "<p>Hello journalists! Voter in a democracy here. Sunak&rsquo;s government is not the one that made the manifesto commitments in 2019. So, what key pieces of legislation do the Tories intend to get through before the next general election? And why?</p>\n",
+				"content_text": "Hello journalists! Voter in a democracy here. Sunak's government is not the one that made the manifesto commitments in 2019. So, what key pieces of legislation do the Tories intend to get through before the next general election? And why?\n",
+				"date_published": "2023-04-06T21:57:51+01:00",
+				"url": "https://lastchance.rodeo/2023/04/06/hello-journalists-voter.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/04/05/a-blackbird-is.html",
+				
+				"content_html": "<p>🐦‍⬛A blackbird is singing over the hiss of the traffic. In the dark. In the rain.</p>\n",
+				"content_text": "🐦‍⬛A blackbird is singing over the hiss of the traffic. In the dark. In the rain. \n",
+				"date_published": "2023-04-05T20:47:33+01:00",
+				"url": "https://lastchance.rodeo/2023/04/05/a-blackbird-is.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2023/04/05/poverty-and-the.html",
 				"title": "Poverty and the political right",
-				"content_html": "<p>The poor derive more direct benefit from public services than the rich. This is why the right, who want a low-tax, small-government state, deny structural poverty and claim the poor are lazy, feckless spendthrifts - basically that they choose to be poor. Public services are, then, the problem: a reason the poor stay poor.</p>\n<p>A more rational, less dishonest approach from the right might be to tackle poverty by understanding that poverty isn’t a personality defect but a shortage of money. The right could draw ideological inspiration from religious traditions to inform sensitive policies.</p>\n<p>Instead, and inexplicably, the right has instituted a programme of mass impoverishment. It seems most of us are too rich and need a curative dose of poverty. Apart from the very rich, who are, uniquely, improved by being showered in money.</p>\n<p>Now the right is forced to set out an entirely dishonest programme for low taxes and a small state - the beneficiaries of which policy will be a tiny minority of super-wealthy individuals.</p>\n<p>There are only two ways to get a democracy to vote for this: lies, or fascism.</p>\n",
-				"content_text": "The poor derive more direct benefit from public services than the rich. This is why the right, who want a low-tax, small-government state, deny structural poverty and claim the poor are lazy, feckless spendthrifts - basically that they choose to be poor. Public services are, then, the problem: a reason the poor stay poor.\n\nA more rational, less dishonest approach from the right might be to tackle poverty by understanding that poverty isn’t a personality defect but a shortage of money. The right could draw ideological inspiration from religious traditions to inform sensitive policies.\n\nInstead, and inexplicably, the right has instituted a programme of mass impoverishment. It seems most of us are too rich and need a curative dose of poverty. Apart from the very rich, who are, uniquely, improved by being showered in money. \n\nNow the right is forced to set out an entirely dishonest programme for low taxes and a small state - the beneficiaries of which policy will be a tiny minority of super-wealthy individuals.\n\nThere are only two ways to get a democracy to vote for this: lies, or fascism. \n",
+				"content_html": "<p><em>If the right wanted a low-tax small state through democratic means, it would tackle poverty.</em></p>\n<p>The poor derive more direct benefit from public services than the rich. This is why the right, who want a low-tax, small-government state, deny structural poverty and claim the poor are lazy, feckless spendthrifts - basically that they choose to be poor. Public services are, then, the problem: a reason the poor stay poor.</p>\n<p>A more rational, less dishonest approach from the right might be to tackle poverty by understanding that poverty isn’t a personality defect but a shortage of money. The right could draw ideological inspiration from religious traditions to inform sensitive policies.</p>\n<p>Instead, and inexplicably, the right has instituted a programme of mass impoverishment. It seems most of us are too rich and need a curative dose of poverty. Apart from the very rich, who are, uniquely, improved by being showered in money.</p>\n<p>Now the right is forced to set out an entirely dishonest programme for low taxes and a small state - the beneficiaries of which policy will be a tiny minority of super-wealthy individuals.</p>\n<p>There are only two ways to get a democracy to vote for this: lies, or fascism.</p>\n",
+				"content_text": "*If the right wanted a low-tax small state through democratic means, it would tackle poverty.*\n\nThe poor derive more direct benefit from public services than the rich. This is why the right, who want a low-tax, small-government state, deny structural poverty and claim the poor are lazy, feckless spendthrifts - basically that they choose to be poor. Public services are, then, the problem: a reason the poor stay poor.\n\nA more rational, less dishonest approach from the right might be to tackle poverty by understanding that poverty isn’t a personality defect but a shortage of money. The right could draw ideological inspiration from religious traditions to inform sensitive policies.\n\nInstead, and inexplicably, the right has instituted a programme of mass impoverishment. It seems most of us are too rich and need a curative dose of poverty. Apart from the very rich, who are, uniquely, improved by being showered in money. \n\nNow the right is forced to set out an entirely dishonest programme for low taxes and a small state - the beneficiaries of which policy will be a tiny minority of super-wealthy individuals.\n\nThere are only two ways to get a democracy to vote for this: lies, or fascism. \n",
 				"date_published": "2023-04-05T07:07:28+01:00",
 				"url": "https://lastchance.rodeo/2023/04/05/poverty-and-the.html"
 			},
@@ -34,7 +58,7 @@
 				"id": "http://mmetcalfe.micro.blog/2023/04/01/i-am-just.html",
 				
 				"content_html": "<p>I am just beginning the planning now for the 10 year anniversary of this sign not coming down.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am just beginning the planning now for the 10 year anniversary of this sign not coming down.\r\n\r\n\n\n<img src=\"uploads/2023/dcf6f3c9b7.jpg\" width=\"450\" height=\"600\" alt=\"A sign of the times against a wet spring backdrop\">\n",
+				"content_text": "I am just beginning the planning now for the 10 year anniversary of this sign not coming down.\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/1212/2023/dcf6f3c9b7.jpg\" width=\"450\" height=\"600\" alt=\"A sign of the times against a wet spring backdrop\">\n",
 				"date_published": "2023-04-01T21:27:36+01:00",
 				"url": "https://lastchance.rodeo/2023/04/01/i-am-just.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://mmetcalfe.micro.blog/2023/03/31/local-drivers-need.html",
 				
 				"content_html": "<p>Local drivers need parking <strong>practice</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Local drivers need parking **practice**.\r\n\r\n\n\n<img src=\"uploads/2023/a43765e1a2.jpg\" width=\"337\" height=\"600\" alt=\"An antisocially-parked white Tesla\">\n",
+				"content_text": "Local drivers need parking **practice**.\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/1212/2023/a43765e1a2.jpg\" width=\"337\" height=\"600\" alt=\"An antisocially-parked white Tesla\">\n",
 				"date_published": "2023-03-31T23:23:41+01:00",
 				"url": "https://lastchance.rodeo/2023/03/31/local-drivers-need.html"
 			},
