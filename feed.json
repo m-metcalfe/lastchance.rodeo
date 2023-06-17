@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2023/06/12/over-the-decades.html",
+				
+				"content_html": "<p>Over the decades I’ve been taking the train south from Napoli Centrale, the station has got busier and busier. And like other European cities, the growth in the number of homeless people living around the station is shocking.</p>\n",
+				"content_text": "Over the decades I’ve been taking the train south from Napoli Centrale, the station has got busier and busier. And like other European cities, the growth in the number of homeless people living around the station is shocking. \n",
+				"date_published": "2023-06-12T10:51:37+01:00",
+				"url": "https://lastchance.rodeo/2023/06/12/over-the-decades.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/06/12/naples-central-station.html",
+				
+				"content_html": "<p>Naples Central Station</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Naples Central Station \n\n<img src=\"uploads/2023/31b770a64b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-12T09:17:33+01:00",
+				"url": "https://lastchance.rodeo/2023/06/12/naples-central-station.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/06/12/starhotel-terminus-naples.html",
+				
+				"content_html": "<p>Starhotel Terminus, Naples, Italy ⭐️⭐️⭐️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Starhotel Terminus, Naples, Italy ⭐️⭐️⭐️\n\n<img src=\"uploads/2023/449c09ec13.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-12T08:50:45+01:00",
+				"url": "https://lastchance.rodeo/2023/06/12/starhotel-terminus-naples.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2023/06/10/i-accidentally-oneclick.html",
 				
 				"content_html": "<p>I accidentally one-click bought some climate denialist garbage on Amazon by swiping too hard. I hesitated for a second before returning. Perhaps I should consider alternative viewpoints. I didn’t want to give the crank any money, though. Have I just <strong>cancelled</strong>?</p>\n",
@@ -42,9 +66,17 @@
 				"id": "http://mmetcalfe.micro.blog/2023/05/27/a-coot-among.html",
 				
 				"content_html": "<p>A coot among the pigeons</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A coot among the pigeons \n\n<img src=\"uploads/2023/09e7129dd1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "A coot among the pigeons \n\n<img src=\"https://cdn.uploads.micro.blog/1212/2023/09e7129dd1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-27T18:41:16+01:00",
 				"url": "https://lastchance.rodeo/2023/05/27/a-coot-among.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/05/27/the-bourgeois-populist.html",
+				
+				"content_html": "<p>The bourgeois populist press coverage of inflation and interest rates is as howlingly vacuous as the national populist press coverage of immigration and “small boats”.</p>\n",
+				"content_text": "The bourgeois populist press coverage of inflation and interest rates is as howlingly vacuous as the national populist press coverage of immigration and “small boats”. \n",
+				"date_published": "2023-05-27T13:45:37+01:00",
+				"url": "https://lastchance.rodeo/2023/05/27/the-bourgeois-populist.html"
 			},
 			{
 				"id": "http://mmetcalfe.micro.blog/2023/05/27/the-already-awful.html",
