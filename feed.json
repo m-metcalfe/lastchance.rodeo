@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2023/09/02/i-was-shopping.html",
+				
+				"content_html": "<p>I was shopping for bird food at <a href=\"https://www.therange.co.uk\">the Range</a> at <a href=\"https://www.surreyquays.co.uk\">Surrey Quays</a> this afternoon. What a nice store! There was a bit of a queue at the checkouts, and they put on more staff. The customers didn&rsquo;t break queueing order, and the staff were friendly and helpful. Also, I scored 12.5kg of bird seed for £7.50.</p>\n",
+				"content_text": "I was shopping for bird food at [the Range](https://www.therange.co.uk) at [Surrey Quays](https://www.surreyquays.co.uk) this afternoon. What a nice store! There was a bit of a queue at the checkouts, and they put on more staff. The customers didn't break queueing order, and the staff were friendly and helpful. Also, I scored 12.5kg of bird seed for £7.50.\n",
+				"date_published": "2023-09-02T21:47:23+01:00",
+				"url": "https://lastchance.rodeo/2023/09/02/i-was-shopping.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/08/30/friends-what-is.html",
+				
+				"content_html": "<p>Friends, what is the Magic Technocrat lever that the Tories haven&rsquo;t used which Reeves and Starmer will pull to deliver growth and prosperity with otherwise the Exact Same Policies?</p>\n",
+				"content_text": "Friends, what is the Magic Technocrat lever that the Tories haven't used which Reeves and Starmer will pull to deliver growth and prosperity with otherwise the Exact Same Policies?\n",
+				"date_published": "2023-08-30T08:36:38+01:00",
+				"url": "https://lastchance.rodeo/2023/08/30/friends-what-is.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/08/25/local-bird-ground.html",
+				"title": "Local bird ground effect over water update",
+				"content_html": "<ul>\n<li>Local coots are the ground effect champions. If they ever actually fly out of ground effect, they do it in secret</li>\n<li>Cormorants always break ground effect and fly over bridges carrying power cables</li>\n<li>Crows won&rsquo;t fly under bridges in ground effect. They&rsquo;ll happily cross the Lea in ground effect, but very few will fly up-river. The ones who do will always pull up over the A13</li>\n<li>Pigeons use ground effect for rapid course corrections and high-speed, high-risk bounce landings. For pigeons it always seems tactical. They use a range of frankly insanely risky flight strategies</li>\n<li>Not sure if grey wagtails count - their flight is ballistic - but it seems the do ground effect bounces over stretches of open water</li>\n</ul>\n",
+				"content_text": "- Local coots are the ground effect champions. If they ever actually fly out of ground effect, they do it in secret\n- Cormorants always break ground effect and fly over bridges carrying power cables\n- Crows won't fly under bridges in ground effect. They'll happily cross the Lea in ground effect, but very few will fly up-river. The ones who do will always pull up over the A13\n- Pigeons use ground effect for rapid course corrections and high-speed, high-risk bounce landings. For pigeons it always seems tactical. They use a range of frankly insanely risky flight strategies\n- Not sure if grey wagtails count - their flight is ballistic - but it seems the do ground effect bounces over stretches of open water\n",
+				"date_published": "2023-08-25T22:00:48+01:00",
+				"url": "https://lastchance.rodeo/2023/08/25/local-bird-ground.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2023/08/25/im-reading-show.html",
+				
+				"content_html": "<p>I&rsquo;m reading <a href=\"https://micro.blog/books/9780861545957\">Show Me the Bodies</a> by Peter Apps 📚</p>\n<p>Fuck me, this is a painful, important book. First non-fiction book this year that I&rsquo;m crying as I read it.</p>\n",
+				"content_text": "I'm reading [Show Me the Bodies](https://micro.blog/books/9780861545957) by Peter Apps 📚\r\n\r\nFuck me, this is a painful, important book. First non-fiction book this year that I'm crying as I read it.\n",
+				"date_published": "2023-08-25T21:03:02+01:00",
+				"url": "https://lastchance.rodeo/2023/08/25/im-reading-show.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2023/08/23/got-home-before.html",
 				
 				"content_html": "<p>Got home before the dishwasher finished for the first time and noticed it rather swankily projects its progress onto the kitchen floor. Maybe this is something all dishwashers do? In which case, shows how unobservant I am!</p>\n",
