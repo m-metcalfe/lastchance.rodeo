@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2024/06/04/big-fire-in.html",
+				
+				"content_html": "<p>Big fire in Canning Town this morning</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Big fire in Canning Town this morning \n\n\n<img src=\"uploads/2024/6863193230.jpg\" width=\"600\" height=\"450\" alt=\"Smoke billows over the rooftops, obscuring construction and high rise buildings \">\n",
+				"date_published": "2024-06-04T08:37:17+01:00",
+				"url": "https://lastchance.rodeo/2024/06/04/big-fire-in.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2024/05/29/the-election-campaign.html",
+				
+				"content_html": "<p>The election campaign really shows up the dire state of British political journalism.</p>\n",
+				"content_text": "The election campaign really shows up the dire state of British political journalism. \n",
+				"date_published": "2024-05-29T08:10:31+01:00",
+				"url": "https://lastchance.rodeo/2024/05/29/the-election-campaign.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2024/05/22/paula-vennells-sure.html",
 				
 				"content_html": "<p>Paula Vennells sure was paid an awful lot of money for not having a clue what was going on during her tenure as CEO of the Post Office.</p>\n<blockquote>\n<p><a href=\"https://www.theguardian.com/uk-news/article/2024/may/22/paula-vennells-breaks-down-as-she-tells-post-office-inquiry-she-was-misled\">Paula Vennells breaks down as she tells Post Office inquiry she was misled</a></p>\n</blockquote>\n",
