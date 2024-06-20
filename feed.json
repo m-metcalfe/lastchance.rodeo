@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2024/06/20/is-rachel-reeves.html",
+				
+				"content_html": "<p>Is Rachel Reeves a poor communicator constrained by Labour’s Tory-lite, don’t frighten the horses messaging, or is there something more fundamentally problematic there?</p>\n",
+				"content_text": "Is Rachel Reeves a poor communicator constrained by Labour’s Tory-lite, don’t frighten the horses messaging, or is there something more fundamentally problematic there?\n",
+				"date_published": "2024-06-20T07:16:06+01:00",
+				"url": "https://lastchance.rodeo/2024/06/20/is-rachel-reeves.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2024/06/04/big-fire-in.html",
 				
 				"content_html": "<p>Big fire in Canning Town this morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Big fire in Canning Town this morning \n\n\n<img src=\"uploads/2024/6863193230.jpg\" width=\"600\" height=\"450\" alt=\"Smoke billows over the rooftops, obscuring construction and high rise buildings \">\n",
+				"content_text": "Big fire in Canning Town this morning \n\n\n<img src=\"https://cdn.uploads.micro.blog/1212/2024/6863193230.jpg\" width=\"600\" height=\"450\" alt=\"Smoke billows over the rooftops, obscuring construction and high rise buildings \">\n",
 				"date_published": "2024-06-04T08:37:17+01:00",
 				"url": "https://lastchance.rodeo/2024/06/04/big-fire-in.html"
 			},
