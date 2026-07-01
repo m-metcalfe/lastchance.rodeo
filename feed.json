@@ -1,11 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "➰ Last Chance Rodeo",
-	"icon": "https://micro.blog/mmetcalfe/avatar.jpg",
+	"icon": "<no value>",
 	"home_page_url": "https://lastchance.rodeo/",
 	"feed_url": "https://lastchance.rodeo/feed.json",
 	"items": [
 		
+			{
+				"id": "http://mmetcalfe.micro.blog/2026/07/01/the-political-class-dare-not.html",
+				
+				"content_html": "<p>The political class dare not say, “our policies are impoverishing people”. So, instead, we have “cost of living crisis”.</p>\n",
+				"content_text": "The political class dare not say, “our policies are impoverishing people”. So, instead, we have “cost of living crisis”.\n",
+				"date_published": "2026-07-01T08:07:21+01:00",
+				"url": "https://lastchance.rodeo/2026/07/01/the-political-class-dare-not.html"
+			},
 			{
 				"id": "http://mmetcalfe.micro.blog/2026/05/24/crucial-track-for-may.html",
 				"title": "Crucial Track for 24 May 2026",
@@ -18,7 +26,7 @@
 				"id": "http://mmetcalfe.micro.blog/2026/05/20/a-puddle-collects-just-where.html",
 				"title": "A puddle collects just where you step off the crossing. Pedestrian-hostile London at its finest.",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://lastchance.rodeo/uploads/2026/6a0e10154a23d.jpg\"></p>\n",
+				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://eu.uploads.micro.blog/1212/2026/6a0e10154a23d.jpg\"></p>\n",
 				"date_published": "2026-05-20T20:48:43+01:00",
 				"url": "https://lastchance.rodeo/2026/05/20/a-puddle-collects-just-where.html"
 			},
@@ -26,7 +34,7 @@
 				"id": "http://mmetcalfe.micro.blog/2026/05/20/a-gb-rail-freight-train.html",
 				"title": "A GB Rail Freight train passes through Hackney without a single container loaded",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"Freight cars in the evening sun, empty of payload\" src=\"https://lastchance.rodeo/uploads/2026/6a0e0f887f07e.jpg\"></p>\n",
+				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"Freight cars in the evening sun, empty of payload\" src=\"https://eu.uploads.micro.blog/1212/2026/6a0e0f887f07e.jpg\"></p>\n",
 				"date_published": "2026-05-20T20:46:22+01:00",
 				"url": "https://lastchance.rodeo/2026/05/20/a-gb-rail-freight-train.html"
 			},
@@ -113,7 +121,7 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2026/05/08/the-greens-zo-garbett-takes.html",
 				
-				"content_html": "<p>The Greens' Zoë Garbett <a href=\"https://www.hackneycitizen.co.uk/2026/05/08/green-party-wins-hackney-mayoral-contest/\">takes the Hackney mayoralty</a> form Labour in a convincing if not overwhelming win. Labour&rsquo;s Caroline Woodley came second. I like Caroline Woodley, and thought she was a good mayor. But I understand this result. I hope the Labour party does too.</p>\n",
+				"content_html": "<p>The Greens&rsquo; Zoë Garbett <a href=\"https://www.hackneycitizen.co.uk/2026/05/08/green-party-wins-hackney-mayoral-contest/\">takes the Hackney mayoralty</a> form Labour in a convincing if not overwhelming win. Labour&rsquo;s Caroline Woodley came second. I like Caroline Woodley, and thought she was a good mayor. But I understand this result. I hope the Labour party does too.</p>\n",
 				"content_text": "The Greens' Zoë Garbett [takes the Hackney mayoralty](https://www.hackneycitizen.co.uk/2026/05/08/green-party-wins-hackney-mayoral-contest/) form Labour in a convincing if not overwhelming win. Labour's Caroline Woodley came second. I like Caroline Woodley, and thought she was a good mayor. But I understand this result. I hope the Labour party does too.\n",
 				"date_published": "2026-05-08T13:41:45+01:00",
 				"url": "https://lastchance.rodeo/2026/05/08/the-greens-zo-garbett-takes.html"
@@ -345,7 +353,7 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2026/02/21/was-s-nesno-dominic-cummings.html",
 				
-				"content_html": "<p>Was 2004&rsquo;s <a href=\"https://www.youngfabians.org.uk/north_east_devolution_referendum_2004_the_first_modern_election\">NESNO</a> Dominic Cummings' original sin? Or a mistake he was paid to make? I think about this from time to time when I imagine a Britain that didn&rsquo;t take the path to sectarian hatred.</p>\n",
+				"content_html": "<p>Was 2004&rsquo;s <a href=\"https://www.youngfabians.org.uk/north_east_devolution_referendum_2004_the_first_modern_election\">NESNO</a> Dominic Cummings&rsquo; original sin? Or a mistake he was paid to make? I think about this from time to time when I imagine a Britain that didn&rsquo;t take the path to sectarian hatred.</p>\n",
 				"content_text": "Was 2004's [NESNO](https://www.youngfabians.org.uk/north_east_devolution_referendum_2004_the_first_modern_election) Dominic Cummings' original sin? Or a mistake he was paid to make? I think about this from time to time when I imagine a Britain that didn't take the path to sectarian hatred.\n",
 				"date_published": "2026-02-21T23:09:48+01:00",
 				"url": "https://lastchance.rodeo/2026/02/21/was-s-nesno-dominic-cummings.html"
@@ -553,7 +561,7 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2025/11/22/research-suggests-that-pigeons-magnetoreception.html",
 				
-				"content_html": "<p><a href=\"https://www.nature.com/articles/d41586-025-03798-8\">Research suggests</a> that pigeons' magnetoreception is linked to their vestibular system: an extension of their sense of balance and spatial orientation. Amazing and obvious at the same time.</p>\n",
+				"content_html": "<p><a href=\"https://www.nature.com/articles/d41586-025-03798-8\">Research suggests</a> that pigeons&rsquo; magnetoreception is linked to their vestibular system: an extension of their sense of balance and spatial orientation. Amazing and obvious at the same time.</p>\n",
 				"content_text": "[Research suggests](https://www.nature.com/articles/d41586-025-03798-8) that pigeons' magnetoreception is linked to their vestibular system: an extension of their sense of balance and spatial orientation. Amazing and obvious at the same time.\n",
 				"date_published": "2025-11-22T01:03:41+01:00",
 				"url": "https://lastchance.rodeo/2025/11/22/research-suggests-that-pigeons-magnetoreception.html"
@@ -1577,7 +1585,7 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2024/09/08/a-tough-government.html",
 				
-				"content_html": "<p>A &lsquo;tough&rsquo; government would be taking power and money from the rich, not mugging pensioners for their winter fuel money or taxing poor families for having kids.</p>\n",
+				"content_html": "<p>A &rsquo;tough&rsquo; government would be taking power and money from the rich, not mugging pensioners for their winter fuel money or taxing poor families for having kids.</p>\n",
 				"content_text": "A 'tough' government would be taking power and money from the rich, not mugging pensioners for their winter fuel money or taxing poor families for having kids.\n",
 				"date_published": "2024-09-08T22:09:02+01:00",
 				"url": "https://lastchance.rodeo/2024/09/08/a-tough-government.html"
@@ -2185,7 +2193,7 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2024/02/10/uk-prime-minister.html",
 				
-				"content_html": "<p>UK prime minister Rishi Sunak paid around 23% tax on £2.2M income because most of his income is capital gains and dividends. Investment income enjoys a huge tax subsidy. Had Sunak &ldquo;earned&rdquo; a £2.2M wage, he&rsquo;d have paid roughly 56% tax<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> including student loan repayment.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>back of the envelope.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_html": "<p>UK prime minister Rishi Sunak paid around 23% tax on £2.2M income because most of his income is capital gains and dividends. Investment income enjoys a huge tax subsidy. Had Sunak &ldquo;earned&rdquo; a £2.2M wage, he&rsquo;d have paid roughly 56% tax<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> including student loan repayment.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>back of the envelope.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
 				"content_text": "UK prime minister Rishi Sunak paid around 23% tax on £2.2M income because most of his income is capital gains and dividends. Investment income enjoys a huge tax subsidy. Had Sunak \"earned\" a £2.2M wage, he'd have paid roughly 56% tax[^1] including student loan repayment.\r\n\r\n[^1]: back of the envelope.\n",
 				"date_published": "2024-02-10T09:43:54+01:00",
 				"url": "https://lastchance.rodeo/2024/02/10/uk-prime-minister.html"
@@ -2265,7 +2273,7 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2024/01/11/xrisk-when-the.html",
 				
-				"content_html": "<p>X-risk: when the techno-optimists' AI tells them we need to reduce inequality and establish social democracy.</p>\n",
+				"content_html": "<p>X-risk: when the techno-optimists&rsquo; AI tells them we need to reduce inequality and establish social democracy.</p>\n",
 				"content_text": "X-risk: when the techno-optimists' AI tells them we need to reduce inequality and establish social democracy.\n",
 				"date_published": "2024-01-11T15:41:36+01:00",
 				"url": "https://lastchance.rodeo/2024/01/11/xrisk-when-the.html"
