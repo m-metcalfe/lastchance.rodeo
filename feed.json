@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2026/07/17/do-you-use-signals-products.html",
+				
+				"content_html": "<p>Do you use 37signals&rsquo; products? I&rsquo;ll not link to David Heinemeier Hansson&rsquo;s piece on Europe. You don&rsquo;t need to read it - and I&rsquo;m sure you can Google it if you want to. But, fuck me. What a nasty piece of work this techbro Nazi is.</p>\n",
+				"content_text": "Do you use 37signals' products? I'll not link to David Heinemeier Hansson's piece on Europe. You don't need to read it - and I'm sure you can Google it if you want to. But, fuck me. What a nasty piece of work this techbro Nazi is.\n",
+				"date_published": "2026-07-17T23:57:56+01:00",
+				"url": "https://lastchance.rodeo/2026/07/17/do-you-use-signals-products.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2026/07/15/this-is-an-odd-headline.html",
+				
+				"content_html": "<p>This is an odd headline from the Guardian this morning:</p>\n<blockquote>\n<p><a href=\"https://www.theguardian.com/uk-news/2026/jul/14/ann-widdecombe-killing-police-investigating-possible-leftwing-motivation\">Ann Widdecombe killing: police investigating possible leftwing motivation</a></p>\n</blockquote>\n<p>&ldquo;Extreme left motivation&rdquo; I could swallow, but &ldquo;leftwing&rdquo;?</p>\n",
+				"content_text": "This is an odd headline from the Guardian this morning:\n\n> [Ann Widdecombe killing: police investigating possible leftwing motivation](https://www.theguardian.com/uk-news/2026/jul/14/ann-widdecombe-killing-police-investigating-possible-leftwing-motivation)\n\n\"Extreme left motivation\" I could swallow, but \"leftwing\"?\n",
+				"date_published": "2026-07-15T09:39:28+01:00",
+				"url": "https://lastchance.rodeo/2026/07/15/this-is-an-odd-headline.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2026/07/15/why-have-british-elites-failed.html",
 				
 				"content_html": "<p>Why have British elites failed? Why despite the evidence of failure do they continue to fail? What are the institutional and educational determinants? Can they be fixed in a reasonable (years not decades) timeframe? Who are the beneficiaries of failure given the negligible impetus for change?</p>\n",
@@ -33,16 +49,16 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2026/05/20/a-puddle-collects-just-where.html",
 				"title": "A puddle collects just where you step off the crossing. Pedestrian-hostile London at its finest.",
-				"content_html": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://lastchance.rodeo/uploads/2026/6a0e10154a23d.jpg\"></p>\n",
-				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://lastchance.rodeo/uploads/2026/6a0e10154a23d.jpg\"></p>\n",
+				"content_html": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://eu.uploads.micro.blog/1212/2026/6a0e10154a23d.jpg\"></p>\n",
+				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://eu.uploads.micro.blog/1212/2026/6a0e10154a23d.jpg\"></p>\n",
 				"date_published": "2026-05-20T20:48:43+01:00",
 				"url": "https://lastchance.rodeo/2026/05/20/a-puddle-collects-just-where.html"
 			},
 			{
 				"id": "http://mmetcalfe.micro.blog/2026/05/20/a-gb-rail-freight-train.html",
 				"title": "A GB Rail Freight train passes through Hackney without a single container loaded",
-				"content_html": "<p><img width=\"5712\" height=\"4284\" alt=\"Freight cars in the evening sun, empty of payload\" src=\"https://lastchance.rodeo/uploads/2026/6a0e0f887f07e.jpg\"></p>\n",
-				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"Freight cars in the evening sun, empty of payload\" src=\"https://lastchance.rodeo/uploads/2026/6a0e0f887f07e.jpg\"></p>\n",
+				"content_html": "<p><img width=\"5712\" height=\"4284\" alt=\"Freight cars in the evening sun, empty of payload\" src=\"https://eu.uploads.micro.blog/1212/2026/6a0e0f887f07e.jpg\"></p>\n",
+				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"Freight cars in the evening sun, empty of payload\" src=\"https://eu.uploads.micro.blog/1212/2026/6a0e0f887f07e.jpg\"></p>\n",
 				"date_published": "2026-05-20T20:46:22+01:00",
 				"url": "https://lastchance.rodeo/2026/05/20/a-gb-rail-freight-train.html"
 			},
