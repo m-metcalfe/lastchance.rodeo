@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2026/08/15/when-youre-trying-to-fly.html",
+				
+				"content_html": "<p>When you&rsquo;re trying to fly, do a downstroke over water. It&rsquo;s not easy to describe: but the water kicks up hard - harder than dry land.</p>\n",
+				"content_text": "When you're trying to fly, do a downstroke over water. It's not easy to describe: but the water kicks up hard - harder than dry land.\n",
+				"date_published": "2026-08-15T22:37:50+01:00",
+				"url": "https://lastchance.rodeo/2026/08/15/when-youre-trying-to-fly.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2026/08/15/johnny-wont-you-come-on.html",
+				
+				"content_html": "<p>Johnny, won&rsquo;t you come on home: it&rsquo;s a warning from the past for the Labour government of the future.</p>\n<p>Johnny Come Home - Fine Young Cannibals. More: <a href=\"https://www.crucialtracks.org/profile/mmetcalfe/20260815\">www.crucialtracks.org/profile/m&hellip;</a></p>\n",
+				"content_text": "Johnny, won't you come on home: it's a warning from the past for the Labour government of the future.\n\nJohnny Come Home - Fine Young Cannibals. More: [www.crucialtracks.org/profile/m...](https://www.crucialtracks.org/profile/mmetcalfe/20260815)\n",
+				"date_published": "2026-08-15T22:09:57+01:00",
+				"url": "https://lastchance.rodeo/2026/08/15/johnny-wont-you-come-on.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2026/08/15/the-invisible-sun-revealed.html",
+				
+				"content_html": "<p>The invisible sun revealed.</p>\n<img src=\"uploads/2026/468bec3035.jpg\" width=\"600\" height=\"600\" alt=\"A solar eclipse in the UK with a visual artefact of a second sun.\">\n",
+				"content_text": "The invisible sun revealed.\n\n<img src=\"uploads/2026/468bec3035.jpg\" width=\"600\" height=\"600\" alt=\"A solar eclipse in the UK with a visual artefact of a second sun.\">\n",
+				"date_published": "2026-08-15T20:06:13+01:00",
+				"url": "https://lastchance.rodeo/2026/08/15/the-invisible-sun-revealed.html"
+			},
+			{
+				"id": "http://mmetcalfe.micro.blog/2026/08/15/folks-whove-been-following-my.html",
+				
+				"content_html": "<p>Folks who&rsquo;ve been following my hopeless attempts at flying - let me tell you, us humans are not cut out to &ldquo;land&rdquo; (hit the water) like a duck.</p>\n",
+				"content_text": "Folks who've been following my hopeless attempts at flying - let me tell you, us humans are not cut out to \"land\" (hit the water) like a duck.\n",
+				"date_published": "2026-08-15T00:33:29+01:00",
+				"url": "https://lastchance.rodeo/2026/08/15/folks-whove-been-following-my.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2026/08/14/natures-colander.html",
 				
 				"content_html": "<p>Nature&rsquo;s colander.</p>\n<img src=\"uploads/2026/c9c41b56f6.jpg\" width=\"600\" height=\"600\" alt=\"Curvy shadows through leaves during an eclipse\">\n",
@@ -81,8 +113,8 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2026/05/20/a-puddle-collects-just-where.html",
 				"title": "A puddle collects just where you step off the crossing. Pedestrian-hostile London at its finest.",
-				"content_html": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://lastchance.rodeo/uploads/2026/6a0e10154a23d.jpg\"></p>\n",
-				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://lastchance.rodeo/uploads/2026/6a0e10154a23d.jpg\"></p>\n",
+				"content_html": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://eu.uploads.micro.blog/1212/2026/6a0e10154a23d.jpg\"></p>\n",
+				"content_text": "<p><img width=\"5712\" height=\"4284\" alt=\"A muddy puddle on the lip of a pedestrian crossing with no drainage \" src=\"https://eu.uploads.micro.blog/1212/2026/6a0e10154a23d.jpg\"></p>\n",
 				"date_published": "2026-05-20T20:48:43+01:00",
 				"url": "https://lastchance.rodeo/2026/05/20/a-puddle-collects-just-where.html"
 			},
