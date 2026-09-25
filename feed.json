@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2026/09/26/here-is-where-we-are.html",
+				
+				"content_html": "<p>Here is where we are.</p>\n<p>We will imminently acquire unprecedented tools for organising, summarising and mobilising existing knowledge.</p>\n<p>At the same time, we are entering an era when genuine discovery, institutional resilience, and the capacity to deal with &ldquo;surprises&rdquo; become existential.</p>\n",
+				"content_text": "Here is where we are.\n\nWe will imminently acquire unprecedented tools for organising, summarising and mobilising existing knowledge.\n\nAt the same time, we are entering an era when genuine discovery, institutional resilience, and the capacity to deal with \"surprises\" become existential.\n",
+				"date_published": "2026-09-26T00:06:06+01:00",
+				"url": "https://lastchance.rodeo/2026/09/26/here-is-where-we-are.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2026/09/19/i-hate-the-way-ai.html",
 				
 				"content_html": "<p>I hate the way AI glibs over everything and turns it into Challenger disaster bullet points.</p>\n",
