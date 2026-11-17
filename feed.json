@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mmetcalfe.micro.blog/2026/11/13/the-average-ftse-ceo-is.html",
+				
+				"content_html": "<p>The average FTSE 100 CEO is paid £26,000 a day and spends roughly a third of their day emailing. If Microsoft&rsquo;s global outage lasts all day, the average CEO will be paid £8,700 for doing nothing. That is, assuming they do anything at all in the other two thirds of their day.</p>\n",
+				"content_text": "The average FTSE 100 CEO is paid £26,000 a day and spends roughly a third of their day emailing. If Microsoft's global outage lasts all day, the average CEO will be paid £8,700 for doing nothing. That is, assuming they do anything at all in the other two thirds of their day.\n",
+				"date_published": "2026-11-13T11:29:19+00:00",
+				"url": "https://lastchance.rodeo/2026/11/13/the-average-ftse-ceo-is.html"
+			},
+			{
 				"id": "http://mmetcalfe.micro.blog/2026/11/12/techbros-burn-all-the-regulations.html",
 				
 				"content_html": "<p>Techbros: burn all the regulations, the fossil fuels and the money so we can win the AI race against China!</p>\n<p>Also techbros: we make 30% of our money from sanctions-busting hardware sales to China.</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://mmetcalfe.micro.blog/2026/10/18/the-medieval-town-of-pisciotta.html",
 				
-				"content_html": "<p>The medieval town of Pisciotta above its olive groves as the sun is setting.</p>\n<img src=\"uploads/2026/3f894f9eee.jpg\" width=\"600\" height=\"600\" alt=\"A cluster of sunlit buildings is perched atop a hill covered with the dense green foliage of olive trees under a clear sky.\">\n",
-				"content_text": "The medieval town of Pisciotta above its olive groves as the sun is setting.\n\n<img src=\"uploads/2026/3f894f9eee.jpg\" width=\"600\" height=\"600\" alt=\"A cluster of sunlit buildings is perched atop a hill covered with the dense green foliage of olive trees under a clear sky.\">\n",
+				"content_html": "<p>The medieval town of Pisciotta above its olive groves as the sun is setting.</p>\n<img src=\"https://eu.uploads.micro.blog/1212/2026/3f894f9eee.jpg\" width=\"600\" height=\"600\" alt=\"A cluster of sunlit buildings is perched atop a hill covered with the dense green foliage of olive trees under a clear sky.\">\n",
+				"content_text": "The medieval town of Pisciotta above its olive groves as the sun is setting.\n\n<img src=\"https://eu.uploads.micro.blog/1212/2026/3f894f9eee.jpg\" width=\"600\" height=\"600\" alt=\"A cluster of sunlit buildings is perched atop a hill covered with the dense green foliage of olive trees under a clear sky.\">\n",
 				"date_published": "2026-10-17T23:45:57+00:00",
 				"url": "https://lastchance.rodeo/2026/10/18/the-medieval-town-of-pisciotta.html"
 			},
